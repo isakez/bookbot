@@ -9,3 +9,9 @@ learning goals are to:
     Practice building a full project from scratch
     Deploy a Python project on your personal GitHub account
     Learn how to use a professional code editor
+
+
+
+Por ejemplo contar las palabras mas usadas me parece mas util, contar las palabras mas usadas y decidir si esta generado por IA o es un shitpost me parece aun mas util. Sacarlo por grafico y hacer un reporte mas bonito es interesante.
+otra cosa interesante seria practicar un programita para descargar el texto de la web proyecto gutemberg directamente en un file titulo_libro.txt
+
