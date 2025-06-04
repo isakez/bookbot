@@ -1,2 +1,3 @@
 # bookbot
-A program to analyze text
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!

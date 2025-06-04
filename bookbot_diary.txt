@@ -1,0 +1,11 @@
+Este es el diario de desarrollo de nuestro bookbot, un programa donde analizamos libros/textos y devolvemos un reporte con estadisticas.
+
+Lo primero que pienso, es como podemos personalizarlo para darle nuestro toque. el tipo de analisis (palabras mas usadas, cadencias..) donde se usa(integrarlo para la web p.ej)
+
+
+learning goals are to:
+
+    Configure a professional Python development environment on your local computer
+    Practice building a full project from scratch
+    Deploy a Python project on your personal GitHub account
+    Learn how to use a professional code editor
