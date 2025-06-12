@@ -22,10 +22,15 @@ def get_words_text(contenido):
 
 
 def get_char_text(contenido):
-
+    char_dict = {}
     lista_caracteres = contenido.lower()
     lista_caracteres = list(lista_caracteres)
-    print(lista_caracteres)
-    
-    return lista_caracteres
+    count = 0
+    for char in lista_caracteres:
+        if char in char_dict:
+            char_dict[char] += 1
+        else:
+            char_dict[char] = 1
+
+    return char_dict
 
