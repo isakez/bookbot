@@ -21,5 +21,11 @@ def get_words_text(contenido):
     return num_palabras
 
 
+def get_char_text(contenido):
 
+    lista_caracteres = contenido.lower()
+    lista_caracteres = list(lista_caracteres)
+    print(lista_caracteres)
+    
+    return lista_caracteres
 
